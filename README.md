@@ -6,7 +6,7 @@ Below is the solution for the given assignment, along with screenshots of the wo
 
 ## How to run the app
 
-### Prerequists
+### Prerequisites
 
 Must have installed flutter and nodejs on the your system, along with some andriod studio vms.
 
