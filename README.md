@@ -35,3 +35,27 @@ Note: First time run takes time.
 
 ![loading](/result_app/home1.JPG)
 ![loading](/result_app/home2.JPG)
+
+### Banquets & Venues
+
+- Structure
+
+![loading](/result_app/banq1.JPG)
+![loading](/result_app/banq2.JPG)
+
+- Validation
+
+![loading](/result_app/vald1.JPG)
+
+- Data Filling & Submit Request Clicked
+
+![loading](/result_app/data1.JPG)
+![loading](/result_app/data1.1.JPG)
+![loading](/result_app/data2.JPG)
+![loading](/result_app/data3.JPG)
+
+- Request Recieved on backend
+
+![loading](/result_app/data4.JPG)
+
+## Thank You for your reading this :)
