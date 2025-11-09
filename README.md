@@ -29,9 +29,9 @@ Note: First time run takes time.
 
 - Loading
 
-![loading](/result_app/Loading.jpg)
+![loading](/result_app/Loading.JPG)
 
 - Loaded
 
-![loading](/result_app/home1.jpg)
-![loading](/result_app/home2.jpg)
+![loading](/result_app/home1.JPG)
+![loading](/result_app/home2.JPG)
