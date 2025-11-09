@@ -1,0 +1,163 @@
+# ======================================
+# 🌐 FRONTEND IGNORE RULES
+# ======================================
+
+# Miscellaneous
+frontend/**/*.class
+frontend/**/*.log
+frontend/**/*.pyc
+frontend/**/*.swp
+frontend/.DS_Store
+frontend/.atom/
+frontend/.build/
+frontend/.buildlog/
+frontend/.history
+frontend/.svn/
+frontend/.swiftpm/
+frontend/migrate_working_dir/
+
+# IntelliJ related
+frontend/**/*.iml
+frontend/**/*.ipr
+frontend/**/*.iws
+frontend/.idea/
+
+# VS Code (optional)
+# frontend/.vscode/
+
+# Flutter/Dart/Pub related
+frontend/**/doc/api/
+frontend/**/ios/Flutter/.last_build_id
+frontend/.dart_tool/
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/coverage/
+
+# Symbolication related
+frontend/app.*.symbols
+
+# Obfuscation related
+frontend/app.*.map.json
+
+# Android Studio build artifacts
+frontend/android/app/debug
+frontend/android/app/profile
+frontend/android/app/release
+
+
+# ======================================
+# 🖥️ BACKEND IGNORE RULES (Node.js)
+# ======================================
+
+# Logs
+backend/logs
+backend/**/*.log
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/pnpm-debug.log*
+backend/lerna-debug.log*
+
+# Diagnostic reports
+backend/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+backend/pids
+backend/**/*.pid
+backend/**/*.seed
+backend/**/*.pid.lock
+
+# Coverage directories
+backend/coverage
+backend/**/*.lcov
+
+# Dependency directories
+backend/node_modules/
+backend/jspm_packages/
+
+# Optional npm cache directory
+backend/.npm
+
+# Optional caches
+backend/.eslintcache
+backend/.stylelintcache
+
+# Optional REPL history
+backend/.node_repl_history
+
+# Output of 'npm pack'
+backend/*.tgz
+
+# Yarn Integrity file
+backend/.yarn-integrity
+
+# dotenv environment files
+backend/.env
+backend/.env.test
+backend/.env.production
+backend/.env.local
+backend/.env.development.local
+backend/.env.*.local
+
+# parcel-bundler cache
+backend/.cache
+backend/.parcel-cache
+
+# Next.js build output
+backend/.next/
+backend/out/
+
+# Nuxt.js build / generate output
+backend/.nuxt/
+backend/dist/
+
+# Gatsby files
+backend/.cache/
+#backend/public
+
+# vuepress build output
+backend/.vuepress/dist
+
+# vue / vite
+backend/dist/
+backend/**/*.local
+
+# Serverless directories
+backend/.serverless/
+
+# FuseBox cache
+backend/.fusebox/
+
+# DynamoDB Local files
+backend/.dynamodb/
+
+# TernJS port file
+backend/.tern-port
+
+# VSCode files
+backend/.vscode/*
+!backend/.vscode/settings.json
+!backend/.vscode/tasks.json
+!backend/.vscode/launch.json
+!backend/.vscode/extensions.json
+
+# IDEs
+backend/.idea/
+backend/**/*.suo
+backend/**/*.ntvs*
+backend/**/*.njsproj
+backend/**/*.sln
+
+# macOS system files
+backend/.DS_Store
+
+# Windows system files
+backend/Thumbs.db
+backend/ehthumbs.db
+backend/Desktop.ini
+
+# Temp or misc
+backend/tmp/
+backend/temp/
